@@ -1,0 +1,68 @@
+[
+  {
+    "imageName": "Reflection.png",
+    "notification": "notificationMessage",
+    "status": true,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reflection.png",
+    "notification": "notificationMessage",
+    "status": true,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reminder.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reminder.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "D-active.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reminder.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reminder.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "D-active.png",
+    "notification": "notificationMessage",
+    "status": true,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reminder.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "D-active.png",
+    "notification": "notificationMessage",
+    "status": false,
+    "timeOfCreation": "4m ago"
+  },
+  {
+    "imageName": "Reflection.png",
+    "notification": "notificationMessage",
+    "status": true,
+    "timeOfCreation": "4m ago"
+  }
+]
