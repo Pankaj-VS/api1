@@ -2,67 +2,67 @@
   {
     "imageName": "Reflection.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isStatusComplete": true,
     "timeOfCreation": "2024-03-09T09:49:42.752Z"
   },
   {
     "imageName": "Reflection.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isStatusComplete": true,
     "timeOfCreation": "2024-03-09T08:23:20.000Z"
   },
   {
     "imageName": "Reminder.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2024-03-08T07:30:00.000Z"
   },
   {
     "imageName": "Reminder.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2024-03-06T17:00:00.000Z"
   },
   {
     "imageName": "D-active.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2024-02-29T23:23:20.000Z"
   },
   {
     "imageName": "Reminder.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2024-02-21T18:03:20.000Z"
   },
   {
     "imageName": "Reminder.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2024-01-01T18:56:00.000Z"
   },
   {
     "imageName": "D-active.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isStatusComplete": true,
     "timeOfCreation": "2023-11-10T20:56:00.000Z"
   },
   {
     "imageName": "Reminder.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2022-10-31T12:00:00.000Z"
   },
   {
     "imageName": "D-active.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isStatusComplete": false,
     "timeOfCreation": "2020-12-23T00:00:00.000Z"
   },
   {
     "imageName": "Reflection.png",
     "notification": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isStatusComplete": true,
     "timeOfCreation": "2018-12-04T00:00:00.000Z"
   }
 ]
